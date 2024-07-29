@@ -1,4 +1,4 @@
-# UCA-Work
+# UCA-School-Projects
 A collection of projects completed throughout my Bachelor's Degree at the University of Central Arkansas
 Each Project is in a seperate Folder, and all related files are in selected folders.
 This Github Repository includes work from the following curriculum:
