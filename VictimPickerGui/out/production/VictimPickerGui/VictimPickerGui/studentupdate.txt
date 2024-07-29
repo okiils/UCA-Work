@@ -1,0 +1,10 @@
+John McClane,3,10,Sun Jan 01 00:00:00 CST 2023,[Wed Feb 01 00:00:00 CST 2023],3
+Leslie Knope,2,35,Sun Jan 01 00:00:00 CST 2023,[Wed Feb 01 00:00:00 CST 2023],2
+Borat Sagdiyev,7,40,Fri Nov 10 00:00:00 CST 2006,[Wed Feb 01 00:00:00 CST 2023],1
+Derek Zoolander,1,33,Fri Sep 28 00:00:00 CDT 2001,[Wed Feb 01 00:00:00 CST 2023],4
+Austin Powers,5,40,Sun Jan 01 00:00:00 CST 2023,[Wed Feb 01 00:00:00 CST 2023],0
+Bridget Jones,4,33,Sun Jan 01 00:00:00 CST 2023,[Wed Feb 01 00:00:00 CST 2023],1
+Veronica Corningstone,6,30,Sun Jan 01 00:00:00 CST 2023,[Wed Feb 01 00:00:00 CST 2023],2
+Lloyd Christmas,1,35,Sun Jan 01 00:00:00 CST 2023,[Wed Feb 01 00:00:00 CST 2023],0
+Buddy the Elf,8,33,Sun Jan 01 00:00:00 CST 2023,[Wed Feb 01 00:00:00 CST 2023],0
+Elle Woods,2,26,Sun Jan 01 00:00:00 CST 2023,[Wed Feb 01 00:00:00 CST 2023],3
