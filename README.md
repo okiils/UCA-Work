@@ -1,6 +1,6 @@
 # UCA-Work
 A collection of projects completed throughout my Bachelor's Degree at the University of Central Arkansas
-The works are divided into the programming languages in which they were completed.
+Each Project is in a seperate Folder, and all related files are in selected folders.
 This Github Repository includes work from the following curriculum:
   Data Structures
   Principles of Programming Languages
